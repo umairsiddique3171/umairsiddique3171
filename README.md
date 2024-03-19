@@ -3,16 +3,17 @@
 <h1 align="center">Hi 👋, I'm Umair Siddique</h1>
 <h3 align="center">AI Engineer | NLP & Computer Vision Specialist | Ex-Intern NCRA</h3>
 <br>
-
+<br>
 <img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umairsiddique3171&label=Profile%20views&color=0e75b6&style=flat" alt="umairsiddique3171" /> </p>
-
-🌱 I’m currently specializing in **NLP & Computer Vision**
-
+**Experienced Machine Learning Engineer with over 2 years in designing and deploying advanced models for data-driven solutions. Specializing in predictive analytics, NLP, and computer vision. Committed to delivering tailored results that drive business growth and innovation.**
+<br>
+<br>
+<br>
 💬 Ask me about **your ML, Computer Vision or NLP Project**
 
 📫 To reach me, plz mail **umairsiddique3171@gmail.com**
+<br>
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
