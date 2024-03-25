@@ -6,12 +6,13 @@
 **Experienced Machine Learning Engineer with over 3 years in designing and deploying advanced models for data-driven solutions. Specializing in predictive analytics, NLP, and computer vision. Committed to delivering tailored results that drive business growth and innovation.**
 <br>
 <br>
-<br>
 <img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
 <br>
 💬 Ask me about **your ML, Computer Vision or NLP Project**
 
 📫 To reach me, plz mail **umairsiddique3171@gmail.com**
+
+🚀 You can access my **Projects** [here](https://github.com/umairsiddique3171?tab=repositories)
 <br>
 <br>
 <br>
