@@ -10,8 +10,6 @@
 <br>
 💬 Ask me about **your ML, Computer Vision or NLP Project**
 
-📫 To reach me, plz mail **umairsiddique3171@gmail.com**
-
 🚀 You can access my **Projects** [here](https://github.com/umairsiddique3171?tab=repositories)
 <br>
 <br>
