@@ -7,10 +7,8 @@
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
-<br>
-💬 Ask me about **your ML, Computer Vision or NLP Project**
-
 🚀 You can access my **Projects** [here](https://github.com/umairsiddique3171?tab=repositories)
+<br>
 <br>
 <br>
 <br>
