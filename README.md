@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Umair Siddique</h1>
 <h3 align="center">AI Engineer | NLP | GenAI | MLOps - AWS | AI Automation</h3>
 
-**Experienced Machine Learning Engineer with over 3 years in designing and deploying advanced models for data-driven solutions. Specializing in predictive analytics, NLP, and computer vision. Committed to delivering tailored results that drive business growth and innovation.**
+**With over 4 years of experience in AI and Automation, I empower startups, small and medium-sized businesses to harness the full potential of AI. As an AI Engineer and Automation Expert, specializing in NLP, GenAI, and AI-driven Automation, I design and deploy advanced models tailored to your business needs. I build scalable, intelligent solutions that boost efficiency, drive innovation, and accelerate growth, turning data into actionable insights and automation into a competitive advantage.**
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
